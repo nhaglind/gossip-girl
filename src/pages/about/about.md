@@ -1,13 +1,18 @@
 ---
 templateKey: about-page
 path: /about
-title: About our values
+title: Gossip Girl
 ---
+
+### Okay, time for Gossip Girl quotes
+
+> "Some might call this a fustercluck. But on the Upper East Side, we call it Sunday afternoon."
+
 ### Another Change Locally!
 
 This is working, rad.
 
-### Updating from CMS.
+### Updating from CMS
 
 CMS push.
 
